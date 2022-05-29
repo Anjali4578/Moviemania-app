@@ -23,7 +23,7 @@ In this project, content-based filtering method has been used and implemented. T
 - The movie details like title, genre, rating, poster, description have been fetched through TMDB API,see "https://www.themoviedb.org/", "https://www.themoviedb.org/documentation/api"
 
 - The dataset used in the model building has been taken from Kaggle - **TMDB 5000 Movie Dataset**
-  Link to the dataset: "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv"
+  Link to the dataset: "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv" OR "https://drive.google.com/file/d/15bWKwmEJXXIQEyf02aQmIZ3c19nJ2DxF/view?usp=sharing", "https://drive.google.com/file/d/1cF8l19iCRK8FAfelJFJg11oe7SheYf1F/view?usp=sharing"
 
 #### Deployed app link
 
